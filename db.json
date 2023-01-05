@@ -69,5 +69,7 @@
       "cost": 1999,
       "borrowed": false
     }
-  ]
+  ],
+  "cars": [],
+  "wishlisted_cars":[]
 }
